@@ -1,0 +1,54 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PDFNavigator", "..\PDFExtracter\PDFNavigator\PDFNavigator.csproj", "{F92644CE-8BA1-4B54-AA60-B7A30551481D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GetImageDLL", "..\PDFExtracter\GetImageDLL\GetImageDLL.csproj", "{BFDD6282-FE5B-44C7-B8AF-CC0470DDA26C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PDFExtracter", "..\PDFExtracter\PDFExtracter\PDFExtracter.csproj", "{30DC5C2F-D241-4001-949F-6F3DF4ADA010}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Mixed Platforms = Debug|Mixed Platforms
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|Mixed Platforms = Release|Mixed Platforms
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F92644CE-8BA1-4B54-AA60-B7A30551481D}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{F92644CE-8BA1-4B54-AA60-B7A30551481D}.Debug|Mixed Platforms.ActiveCfg = Debug|x86
+		{F92644CE-8BA1-4B54-AA60-B7A30551481D}.Debug|Mixed Platforms.Build.0 = Debug|x86
+		{F92644CE-8BA1-4B54-AA60-B7A30551481D}.Debug|x86.ActiveCfg = Debug|x86
+		{F92644CE-8BA1-4B54-AA60-B7A30551481D}.Debug|x86.Build.0 = Debug|x86
+		{F92644CE-8BA1-4B54-AA60-B7A30551481D}.Release|Any CPU.ActiveCfg = Release|x86
+		{F92644CE-8BA1-4B54-AA60-B7A30551481D}.Release|Mixed Platforms.ActiveCfg = Release|x86
+		{F92644CE-8BA1-4B54-AA60-B7A30551481D}.Release|Mixed Platforms.Build.0 = Release|x86
+		{F92644CE-8BA1-4B54-AA60-B7A30551481D}.Release|x86.ActiveCfg = Release|x86
+		{F92644CE-8BA1-4B54-AA60-B7A30551481D}.Release|x86.Build.0 = Release|x86
+		{BFDD6282-FE5B-44C7-B8AF-CC0470DDA26C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BFDD6282-FE5B-44C7-B8AF-CC0470DDA26C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BFDD6282-FE5B-44C7-B8AF-CC0470DDA26C}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{BFDD6282-FE5B-44C7-B8AF-CC0470DDA26C}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{BFDD6282-FE5B-44C7-B8AF-CC0470DDA26C}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{BFDD6282-FE5B-44C7-B8AF-CC0470DDA26C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BFDD6282-FE5B-44C7-B8AF-CC0470DDA26C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BFDD6282-FE5B-44C7-B8AF-CC0470DDA26C}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{BFDD6282-FE5B-44C7-B8AF-CC0470DDA26C}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{BFDD6282-FE5B-44C7-B8AF-CC0470DDA26C}.Release|x86.ActiveCfg = Release|Any CPU
+		{30DC5C2F-D241-4001-949F-6F3DF4ADA010}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{30DC5C2F-D241-4001-949F-6F3DF4ADA010}.Debug|Mixed Platforms.ActiveCfg = Debug|x86
+		{30DC5C2F-D241-4001-949F-6F3DF4ADA010}.Debug|Mixed Platforms.Build.0 = Debug|x86
+		{30DC5C2F-D241-4001-949F-6F3DF4ADA010}.Debug|x86.ActiveCfg = Debug|x86
+		{30DC5C2F-D241-4001-949F-6F3DF4ADA010}.Debug|x86.Build.0 = Debug|x86
+		{30DC5C2F-D241-4001-949F-6F3DF4ADA010}.Release|Any CPU.ActiveCfg = Release|x86
+		{30DC5C2F-D241-4001-949F-6F3DF4ADA010}.Release|Mixed Platforms.ActiveCfg = Release|x86
+		{30DC5C2F-D241-4001-949F-6F3DF4ADA010}.Release|Mixed Platforms.Build.0 = Release|x86
+		{30DC5C2F-D241-4001-949F-6F3DF4ADA010}.Release|x86.ActiveCfg = Release|x86
+		{30DC5C2F-D241-4001-949F-6F3DF4ADA010}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
