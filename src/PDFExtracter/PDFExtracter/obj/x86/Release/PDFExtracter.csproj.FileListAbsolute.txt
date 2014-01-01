@@ -1,0 +1,7 @@
+D:\Codes\C#\PDFExtracter\PDFExtracter\bin\Release\PDFExtracter.dll
+D:\Codes\C#\PDFExtracter\PDFExtracter\bin\Release\PDFExtracter.pdb
+D:\Codes\C#\PDFExtracter\PDFExtracter\bin\Release\PDFNet.dll
+D:\Codes\C#\PDFExtracter\PDFExtracter\bin\Release\PDFNet.xml
+D:\Codes\C#\PDFExtracter\PDFExtracter\obj\x86\Release\PDFExtracter.dll
+D:\Codes\C#\PDFExtracter\PDFExtracter\obj\x86\Release\PDFExtracter.pdb
+D:\Codes\C#\PDFExtracter\PDFExtracter\obj\x86\Release\PDFExtracter.csprojResolveAssemblyReference.cache

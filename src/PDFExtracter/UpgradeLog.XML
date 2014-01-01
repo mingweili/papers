@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="PDFExtracter">
+</Property><Property Name="Solution File" Value="D:\Codes\C#\PDFExtracter\PDFExtracter.sln">
+</Property><Property Name="User Options File" Value="D:\Codes\C#\PDFExtracter\PDFExtracter.v11.suo">
+</Property><Property Name="Date" Value="2012年3月16日">
+</Property><Property Name="Time" Value="13:15">
+</Property></Properties><Event ErrorLevel="3" Project="" Source="PDFExtracter.sln" Description="SafeUpgrade">
+</Event><Event ErrorLevel="0" Project="" Source="PDFExtracter.sln" Description="File successfully backed up as D:\Codes\C#\PDFExtracter\Backup\PDFExtracter.sln">
+</Event><Event ErrorLevel="0" Project="" Source="PDFExtracter.v11.suo" Description="File successfully backed up as D:\Codes\C#\PDFExtracter\Backup\PDFExtracter.v11.suo">
+</Event><Event ErrorLevel="3" Project="ModelingProject" Source="ModelingProject\ModelingProject.modelproj" Description="SafeUpgrade">
+</Event><Event ErrorLevel="0" Project="D:\Codes\C#\PDFExtracter\ModelingProject\ModelingProject.modelproj" Source="ModelingProject\ModelingProject.modelproj" Description="Beginning Upgrade">
+</Event><Event ErrorLevel="3" Project="D:\Codes\C#\PDFExtracter\ModelingProject\ModelingProject.modelproj" Source="ModelingProject\ModelingProject.modelproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="PDFExtracter.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="PDFExtracter.sln" Description="Converted">
+</Event></UpgradeLog>
